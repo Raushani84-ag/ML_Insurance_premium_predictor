@@ -56,10 +56,12 @@ Insurance companies often face challenges in estimating fair and personalized pr
    git clone https://github.com/your-username/insurance-premium-predictor.git
    cd insurance-premium-predictor
 pip install -r requirements.txt
+
 python app/main.py
 
 
 Raushani Kymari
+
 Final Year Agricultural Engineering | Aspiring Agri-Data Scientist
 ---
 
